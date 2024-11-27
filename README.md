@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NadiaHoque
-- 👀 I’m interested in Mathematics, Data Science and Artificial Intelligence 
-- 🌱 I’m currently looking for PhD opportunities
+- 👀 I’m interested in applications of Artificial Intelligence in sustainability
+- 🌱 I’m currently on my taught year of my PhD
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/mouri-hoque-n-b9aa76114/
 
